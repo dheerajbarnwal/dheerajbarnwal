@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Personal+Finance;and+a+homemade+chef%3F)](https://git.io/typing-svg)
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/dheerajbarnwal"><img src="https://api.daily.dev/devcards/f6530410f1104868a582770540227cb4.png?r=2ww" width="400" alt="Dheeraj kumar Barnwal's Dev Card"/></a>
+<a href="https://app.daily.dev/dheerajbarnwal"><img src="https://api.daily.dev/devcards/f6530410f1104868a582770540227cb4.png?r=2ww" width="200" align="right" alt="Dheeraj kumar Barnwal's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
